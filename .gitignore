@@ -1,0 +1,81 @@
+############################
+# Secrets
+############################
+.env
+.env.development
+.env.production
+.password
+
+############################
+# Gatsby
+############################
+
+node_modules/
+.cache/
+src/gatsby-types.d.ts
+
+############################
+# Strapi
+############################
+
+public
+license.txt
+exports
+*.cache
+build
+.strapi-updater.json
+
+############################
+# Node.js
+############################
+
+lib-cov
+lcov.info
+pids
+logs
+results
+node_modules
+.node_history
+
+############################
+# Logs and databases
+############################
+
+.tmp
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+############################
+# OS X
+############################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+._*
+
+
+############################
+# Linux
+############################
+
+*~
+
+
+############################
+# Windows
+############################
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp

@@ -1,0 +1,9 @@
+component: tooltip
+type: overview
+content:
+  best-practices:
+    dos:
+      - Use collapsible components to hide and show content.
+      - Use collapsible components to group related content.
+    donts:
+      - Don't use collapsible components to hide and show content that is critical to the user's task.
