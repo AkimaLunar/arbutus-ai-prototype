@@ -5,8 +5,8 @@ import { mergeClasses } from '@griffel/react';
 import type { GridProps } from './grid.types';
 import { useGridStyles } from './grid.styles';
 
-export const Grid: FC<GridProps> = ({ children, layout, className }) => {
+export const Grid: FC<GridProps> = ({ children, layout, className, as: Root = 'div' }) => {
   const classes = useGridStyles();
 
-  return <div className={mergeClasses(classes.root, layout && classes[layout], className)}>{children}</div>;
+  return <Root className={mergeClasses(classes.root, layout && classes[layout], className)}>{children}</Root>;
 };

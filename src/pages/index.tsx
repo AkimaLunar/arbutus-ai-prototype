@@ -1,10 +1,11 @@
 import * as React from 'react';
 import type { FC } from 'react';
 import type { HeadFC } from 'gatsby';
-import { graphql } from 'gatsby';
 import type { PageProps } from 'gatsby';
 
 import { HomeLayout } from '../layouts/home';
+
+type HomePageData = {};
 
 const IndexPage: FC<PageProps<HomePageData>> = () => {
 
