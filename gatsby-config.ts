@@ -12,6 +12,7 @@ const config: GatsbyConfig = {
   siteMetadata: {
     title: `Arbutus AI Prototype`,
     description: 'Design and build your documentation site.',
+    siteUrl: 'https://akimalunar.github.io/arbutus-ai-prototype',
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
