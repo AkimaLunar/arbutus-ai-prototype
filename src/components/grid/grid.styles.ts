@@ -12,7 +12,7 @@ export const gridClasses = {
     gridTemplateColumns: '1fr 1fr 1fr'
   },
   quarters: {
-    gridTemplateColumns: 'repeat(auto-fill, minmax(12rem, 1fr))'
+    gridTemplateColumns: '1fr 1fr 1fr 1fr'
   },
   small: {
     gridTemplateColumns: 'repeat(auto-fill, minmax(16rem, 1fr))'
