@@ -6,6 +6,7 @@ dotenv.config({
 });
 
 const config: GatsbyConfig = {
+  pathPrefix: `/arbutus-ai-prototype`,
   flags: {
     DEV_SSR: true
   },
