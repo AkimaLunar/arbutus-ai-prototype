@@ -2,7 +2,7 @@
 title: Home page
 ---
 
-![Demo background](../../assets/demo-image-3.png)
+undefinedckground](../../assets/demo-image-3.png)
 
 # Home page
 
