@@ -7,9 +7,11 @@ title:
 
 ## title: Design Fundamentals
 
+***
+
+## title: Design Fundamentals
+
 \---
-
-
 
 ![Demo background](../../assets/demo-image-3.png)
 
@@ -17,4 +19,4 @@ title:
 
 ***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. jjjjjjjjjjjjjjjjjkjkjjkjhlkjhljkhjkhljkh;;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. jjjjjjjjjjjjjjjjjkjkjjkjhlkjhljkhjkhljkh;;;
