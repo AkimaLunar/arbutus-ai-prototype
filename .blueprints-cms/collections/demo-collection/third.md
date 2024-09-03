@@ -6,6 +6,6 @@ title: Third
 
 # Third
 
----
+***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This is the third document. What are we doing here?;
