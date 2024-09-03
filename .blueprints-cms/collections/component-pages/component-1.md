@@ -8,4 +8,4 @@ title: Component 1
 
 ***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit... Let's write about the first document. I am going to write some test lines here.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit... Let's write about the first document. I am going to write some test lines here. More test lines perhaps?
