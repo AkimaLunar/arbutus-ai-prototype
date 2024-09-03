@@ -1,4 +1,3 @@
-
 ---
 title: Design Fundamentals
 ---
@@ -9,4 +8,4 @@ title: Design Fundamentals
 
 ***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Hello hello;;
