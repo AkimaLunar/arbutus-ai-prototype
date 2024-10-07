@@ -6,7 +6,7 @@ title: First document
 
 # Getting Started
 
----
+***
 
 ## About This Starter
 
@@ -14,9 +14,9 @@ This Blueprints starter is the best fit for sites that are text-heavy and don’
 
 We’ve used the following stack to build this starter:
 
-- [Gatsby](https://www.gatsbyjs.org/)
-- [Griffel](https://griffel.js.org/)
-- [MDX](https://mdxjs.com/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [Griffel](https://griffel.js.org/)
+* [MDX](https://mdxjs.com/)
 
 ## Architecture
 
@@ -26,7 +26,6 @@ Gatsby is a static site generator that uses React and GraphQL to build blazing f
 
 Take a look at the `./pages/` directory. All files in this directory are automatically converted into pages by Gatsby. The `index.tsx` file is the homepage, and the `404.tsx` file is the 404 page, and so on.
 
-
 ### MDX
 
 MDX is a file format that lets you write JSX in your Markdown documents. It’s perfect for writing documentation, blog posts, and other long-form content alongside Blueprints components or your own custom React components.
@@ -35,9 +34,9 @@ MDX is configured in the `./gatsby-config.ts` file through `gatsby-plugin-mdx`. 
 
 #### Resources for Gatsby and MDX
 
-- [gatsby-plugin-mdx](https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/)
-- [Adding MDX Pages](https://www.gatsbyjs.com/docs/how-to/routing/mdx/)
-- [Working with Images in Markdown & MDX](https://www.gatsbyjs.com/docs/how-to/images-and-media/working-with-images-in-markdown/#inline-images-with-gatsby-remark-images)
+* [gatsby-plugin-mdx](https://www.gatsbyjs.com/plugins/gatsby-plugin-mdx/)
+* [Adding MDX Pages](https://www.gatsbyjs.com/docs/how-to/routing/mdx/)
+* [Working with Images in Markdown & MDX](https://www.gatsbyjs.com/docs/how-to/images-and-media/working-with-images-in-markdown/#inline-images-with-gatsby-remark-images)
 
 ### Blueprints
 
