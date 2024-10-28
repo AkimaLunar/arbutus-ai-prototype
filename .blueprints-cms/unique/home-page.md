@@ -2,4 +2,4 @@
 title: Home page
 ---
 
-undefined
+Let's write something on this page.
